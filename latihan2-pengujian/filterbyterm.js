@@ -3,4 +3,4 @@ function filterByTerm(arrData, kataKunciPencarian) {
         return arrayElement.url.match(kataKunciPencarian);
     })
 }
-module.exports = filterByTerm;
+module.exports = filterByTerm; 
