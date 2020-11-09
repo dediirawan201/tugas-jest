@@ -10,5 +10,5 @@ describe("Fungsi filter", () => {
 
         const output = [{ id: 3, url: "https://www.link3.dev"}];
         expect(filterByTerm(input, "link")).toEqual(output);
-    })
+    }) 
 }); 

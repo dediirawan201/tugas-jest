@@ -11,5 +11,5 @@ test('5 - 6 = -1', () => {
     expect(sub(5,6)).toBe(-1);
 });
 test('8 / 4 = 2', () => {
-    expect(div(8,4)).toBe(2);
+    expect(div(8,4)).toBe(2); 
 }); 
